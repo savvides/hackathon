@@ -24,13 +24,9 @@ imbalance---half of responding mentors saw 0-3 teams, suggesting either
 low student demand for mentoring or friction in the station-based
 format.
 
-+----------------+---+----------------+---+----------------+---+------------+
-| **6 / 25**     |   | **100%**       |   | **100%**       |   | **100%**   |
-|                |   |                |   |                |   |            |
-| Response Rate  |   | Would Return   |   | Projects Met   |   | Top Need:  |
-| (24%)          |   |                |   | Expectations   |   | Problem    |
-|                |   |                |   |                |   | Scoping    |
-+----------------+---+----------------+---+----------------+---+------------+
+| **6 / 25** Response Rate (24%) |  | **100%** Would Return |  | **100%** Projects Met Expectations |  | **100%** Top Need: Problem Scoping |
+| --- | --- | --- | --- | --- | --- | --- |
+
 
 2\. Mentor Participation Analysis
 
@@ -51,7 +47,8 @@ The 89.3% show rate is strong for a volunteer commitment, with only 3
 no-shows from the recruited pool. However, the 24% feedback response
 rate is a critical gap. 19 mentors who attended provided no post-event
 data, making this report's conclusions directional rather than
-definitive. The roster shows 27 unique mentors were assigned ([Mentor 10] had no day checkmarks), so the 28 signup vs. 27 assignment
+definitive. The roster shows 27 unique mentors were assigned (Casey
+Evans had no day checkmarks), so the 28 signup vs. 27 assignment
 discrepancy suggests either a late withdrawal or a data entry gap.
 
 2.2 Station Coverage vs. Team Demand

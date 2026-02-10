@@ -179,230 +179,63 @@ expertise. Come to them. \~15--20 min per session.
 *Instructional design, curriculum, K-12 partnerships, faculty workload,
 institutional processes*
 
-+---------------------+------------------------------+-------+-------+
-| **Name**            | **Title & Expertise**        | **Day | **Day |
-|                     |                              | 1**   | 2**   |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 1]           | Director of Instructional    | ✓     | ✓     |
-| **           | Design, EdPlus               |       |       |
-|                     |                              |       |       |
-|                     | *Online learning quality,    |       |       |
-|                     | scalable course design,      |       |       |
-|                     | accessibility*               |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 3]            | Associate Professor, MLFC    | ✓     | ✓     |
-| **        |                              |       |       |
-|                     | *Education policy, teacher   |       |       |
-|                     | retention, K-12 quantitative |       |       |
-|                     | research*                    |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 4]            | Teaching Faculty of Math,    | ✓     | ✓     |
-| **        | ASU                          |       |       |
-|                     |                              |       |       |
-|                     | *Math education, K-12        |       |       |
-|                     | curriculum development,      |       |       |
-|                     | teaching methods*            |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 5]**   | Program Manager, Edson E+I   | ✓     | ✓     |
-|                     |                              |       |       |
-|                     | *Entrepreneurship education, |       |       |
-|                     | DEI in learning, global      |       |       |
-|                     | programs*                    |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 6]**   | University Relations         | ✓     | ✓     |
-|                     | Specialist, BASIS            |       |       |
-|                     |                              |       |       |
-|                     | *Student teacher placement,  |       |       |
-|                     | K-12 partnerships, classroom |       |       |
-|                     | transitions*                 |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 7]**  | Asst. Director Learning      | ✓     |       |
-|                     | Design, Learning Enterprise  |       |       |
-|                     |                              |       |       |
-|                     | *Instructional design,       |       |       |
-|                     | virtual learning, workforce  |       |       |
-|                     | development*                 |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 8]** | Instructional Designer,      | ✓     |       |
-|                     | Learning Enterprise          |       |       |
-|                     |                              |       |       |
-|                     | *Micro-credentials, PI       |       |       |
-|                     | framework, design thinking,  |       |       |
-|                     | accessibility*               |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 9]**     | Clinical Asst. Professor,    |       | ✓     |
-|                     | MLFC                         |       |       |
-|                     |                              |       |       |
-|                     | *K-12 leadership,            |       |       |
-|                     | instructional coaching,      |       |       |
-|                     | school administration*       |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 10]**     | Chief Operating Officer,     |       |       |
-|                     | EdPlus                       |       |       |
-|                     |                              |       |       |
-|                     | *Digital learning            |       |       |
-|                     | operations, enrollment       |       |       |
-|                     | growth, partnerships*        |       |       |
-+---------------------+------------------------------+-------+-------+
+| **Name** | **Title & Expertise** | **Day 1** | **Day 2** |
+| --- | --- | --- | --- |
+| **[Mentor 1]** | Director of Instructional Design, EdPlus *Online learning quality, scalable course design, accessibility* | ✓ | ✓ |
+| **[Mentor 3]** | Associate Professor, MLFC *Education policy, teacher retention, K-12 quantitative research* | ✓ | ✓ |
+| **[Mentor 4]** | Teaching Faculty of Math, ASU *Math education, K-12 curriculum development, teaching methods* | ✓ | ✓ |
+| **[Mentor 5]** | Program Manager, Edson E+I *Entrepreneurship education, DEI in learning, global programs* | ✓ | ✓ |
+| **[Mentor 6]** | University Relations Specialist, BASIS *Student teacher placement, K-12 partnerships, classroom transitions* | ✓ | ✓ |
+| **[Mentor 7]** | Asst. Director Learning Design, Learning Enterprise *Instructional design, virtual learning, workforce development* | ✓ |  |
+| **[Mentor 8]** | Instructional Designer, Learning Enterprise *Micro-credentials, PI framework, design thinking, accessibility* | ✓ |  |
+| **[Mentor 9]** | Clinical Asst. Professor, MLFC *K-12 leadership, instructional coaching, school administration* |  | ✓ |
+| **[Mentor 10]** | Chief Operating Officer, EdPlus *Digital learning operations, enrollment growth, partnerships* |  |  |
+
 
 **Station 2: Student Wellness**
 
 *Mental health, counseling, student success, retention, peer support,
 career development*
 
-+---------------------+------------------------------+-------+-------+
-| **Name**            | **Title & Expertise**        | **Day | **Day |
-|                     |                              | 1**   | 2**   |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 11]**  | Assoc. Director/Clinical     | ✓     | ✓     |
-|                     | Director, ASU Counseling     |       |       |
-|                     |                              |       |       |
-|                     | *Crisis intervention,        |       |       |
-|                     | collegiate mental health,    |       |       |
-|                     | equity in care*              |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 12]**   | Assoc. VP Health &           | ✓     |       |
-|                     | Counseling, EOSS             |       |       |
-|                     |                              |       |       |
-|                     | *Counseling center           |       |       |
-|                     | leadership, suicide          |       |       |
-|                     | prevention, student          |       |       |
-|                     | wellbeing*                   |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 13]**   | Clinical Asst. Professor,    | ✓     |       |
-|                     | MLFC                         |       |       |
-|                     |                              |       |       |
-|                     | *Youth civic engagement,     |       |       |
-|                     | school democracy,            |       |       |
-|                     | participatory research*      |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 14]**   | Asst. Teaching Professor,    | ✓     |       |
-|                     | SAPS                         |       |       |
-|                     |                              |       |       |
-|                     | *Project management, online  |       |       |
-|                     | retention, team building,    |       |       |
-|                     | DEI*                         |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 15]**     | Clinical Asst. Professor,    |       | ✓     |
-|                     | Counseling Psychology        |       |       |
-|                     |                              |       |       |
-|                     | *Immigrant/international     |       |       |
-|                     | student support,             |       |       |
-|                     | acculturation, mental        |       |       |
-|                     | health*                      |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 16]**   | Senior Instructor, ASU       |       | ✓     |
-|                     | Spanish                      |       |       |
-|                     |                              |       |       |
-|                     | *Latino/a cultures,          |       |       |
-|                     | intercultural communication, |       |       |
-|                     | holistic mentoring*          |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 17]**     | Recruitment Outreach         |       | ✓     |
-|                     | Manager, Read Better Be      |       |       |
-|                     | Better                       |       |       |
-|                     |                              |       |       |
-|                     | *Career development,         |       |       |
-|                     | nonprofit sector,            |       |       |
-|                     | storytelling*                |       |       |
-+---------------------+------------------------------+-------+-------+
+| **Name** | **Title & Expertise** | **Day 1** | **Day 2** |
+| --- | --- | --- | --- |
+| **[Mentor 11]** | Assoc. Director/Clinical Director, ASU Counseling *Crisis intervention, collegiate mental health, equity in care* | ✓ | ✓ |
+| **[Mentor 12]** | Assoc. VP Health & Counseling, EOSS *Counseling center leadership, suicide prevention, student wellbeing* | ✓ |  |
+| **[Mentor 13]** | Clinical Asst. Professor, MLFC *Youth civic engagement, school democracy, participatory research* | ✓ |  |
+| **[Mentor 14]** | Asst. Teaching Professor, SAPS *Project management, online retention, team building, DEI* | ✓ |  |
+| **[Mentor 15]** | Clinical Asst. Professor, Counseling Psychology *Immigrant/international student support, acculturation, mental health* |  | ✓ |
+| **[Mentor 16]** | Senior Instructor, ASU Spanish *Latino/a cultures, intercultural communication, holistic mentoring* |  | ✓ |
+| **[Mentor 17]** | Recruitment Outreach Manager, Read Better Be Better *Career development, nonprofit sector, storytelling* |  | ✓ |
+
 
 **Station 3: Health & AI/Tech**
 
 *Healthcare workforce, health equity, AI/ML, health tech, data systems,
 clinical workflows*
 
-+---------------------+------------------------------+-------+-------+
-| **Name**            | **Title & Expertise**        | **Day | **Day |
-|                     |                              | 1**   | 2**   |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 18]**      | Founder & Chief Data         | ✓     | ✓     |
-|                     | Scientist, Optimal Data      |       |       |
-|                     | Science                      |       |       |
-|                     |                              |       |       |
-|                     | *Data analytics, AI/ML,      |       |       |
-|                     | social impact, nonprofit     |       |       |
-|                     | data strategy*               |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 19]**    | Instructional Designer,      | ✓     | ✓     |
-|                     | Office of Design & Learning  |       |       |
-|                     |                              |       |       |
-|                     | *AI chatbots, learning       |       |       |
-|                     | systems, course interaction  |       |       |
-|                     | design*                      |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 20]           | Asst. Teaching Professor,    | ✓     | ✓     |
-| **   | CISA/SAPS                    |       |       |
-|                     |                              |       |       |
-|                     | *Project management,         |       |       |
-|                     | healthcare IT, design        |       |       |
-|                     | thinking, STEM robotics*     |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 21]           | Asst. VP Strategic           | ✓     |       |
-| **     | Initiatives, ASU Health      |       |       |
-|                     |                              |       |       |
-|                     | *Public health tech, health  |       |       |
-|                     | literacy, trauma-informed    |       |       |
-|                     | care*                        |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 22]           | Instructor, SAPS             | ✓     |       |
-| **             |                              |       |       |
-|                     | *Project management,         |       |       |
-|                     | infrastructure, PMP          |       |       |
-|                     | certification*               |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 23]**  | PhD Student, Computer        | ✓     |       |
-|                     | Science                      |       |       |
-|                     |                              |       |       |
-|                     | *Machine learning,           |       |       |
-|                     | generative AI, healthcare AI |       |       |
-|                     | applications*                |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 24]** | Sr. Business Intelligence    |       | ✓     |
-|                     | Analyst, ET                  |       |       |
-|                     |                              |       |       |
-|                     | *Enterprise analytics,       |       |       |
-|                     | decision systems, data       |       |       |
-|                     | visualization*               |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 25]           | Associate Professor, Music   |       | ✓     |
-| **    | Therapy                      |       |       |
-|                     |                              |       |       |
-|                     | *Autism research, family     |       |       |
-|                     | interventions, health        |       |       |
-|                     | equity*                      |       |       |
-+---------------------+------------------------------+-------+-------+
+| **Name** | **Title & Expertise** | **Day 1** | **Day 2** |
+| --- | --- | --- | --- |
+| **[Mentor 18]** | Founder & Chief Data Scientist, Optimal Data Science *Data analytics, AI/ML, social impact, nonprofit data strategy* | ✓ | ✓ |
+| **[Mentor 19]** | Instructional Designer, Office of Design & Learning *AI chatbots, learning systems, course interaction design* | ✓ | ✓ |
+| **[Mentor 20]** | Asst. Teaching Professor, CISA/SAPS *Project management, healthcare IT, design thinking, STEM robotics* | ✓ | ✓ |
+| **[Mentor 21]** | Asst. VP Strategic Initiatives, ASU Health *Public health tech, health literacy, trauma-informed care* | ✓ |  |
+| **[Mentor 22]** | Instructor, SAPS *Project management, infrastructure, PMP certification* | ✓ |  |
+| **[Mentor 23]** | PhD Student, Computer Science *Machine learning, generative AI, healthcare AI applications* | ✓ |  |
+| **[Mentor 24]** | Sr. Business Intelligence Analyst, ET *Enterprise analytics, decision systems, data visualization* |  | ✓ |
+| **[Mentor 25]** | Associate Professor, Music Therapy *Autism research, family interventions, health equity* |  | ✓ |
+
 
 **Roaming Mentors**
 
 *Floor circulation --- cross-station support, checking on teams that
 haven\'t sought help*
 
-+---------------------+------------------------------+-------+-------+
-| **Name**            | **Title & Expertise**        | **Day | **Day |
-|                     |                              | 1**   | 2**   |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 26]**  | Director InvestU, ASU        | ✓     | ✓     |
-|                     | RealmSpark                   |       |       |
-|                     |                              |       |       |
-|                     | *Startup investment,         |       |       |
-|                     | early-stage tech,            |       |       |
-|                     | commercialization*           |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 27]**      | Exec. Director Digital       |       | ✓     |
-|                     | Initiatives, Thunderbird     |       |       |
-|                     |                              |       |       |
-|                     | *AI integration, global      |       |       |
-|                     | learner scale, product       |       |       |
-|                     | development*                 |       |       |
-+---------------------+------------------------------+-------+-------+
-| **[Mentor 28]**   | Sr. Director Enterprise      |       | ✓     |
-|                     | Development, ASU             |       |       |
-|                     |                              |       |       |
-|                     | *EdTech partnerships, Google |       |       |
-|                     | for Education,               |       |       |
-|                     | entrepreneurship*            |       |       |
-+---------------------+------------------------------+-------+-------+
+| **Name** | **Title & Expertise** | **Day 1** | **Day 2** |
+| --- | --- | --- | --- |
+| **[Mentor 26]** | Director InvestU, ASU RealmSpark *Startup investment, early-stage tech, commercialization* | ✓ | ✓ |
+| **[Mentor 27]** | Exec. Director Digital Initiatives, Thunderbird *AI integration, global learner scale, product development* |  | ✓ |
+| **[Mentor 28]** | Sr. Director Enterprise Development, ASU *EdTech partnerships, Google for Education, entrepreneurship* |  | ✓ |
+
 
 Rules That Matter
 
@@ -430,17 +263,10 @@ What to Bring
 
 Contacts
 
-+-----------------------------------+-----------------------------------+
-| **Event Lead**                    | **PI Workshop Lead**              |
-|                                   |                                   |
-| [Event Lead Name]                | [PI Workshop Lead Name]                    |
-|                                   |                                   |
-| [event-lead@university.edu]      | [pi-lead@university.edu]                  |
-+-----------------------------------+-----------------------------------+
-| **Slack**                         | **Emergency**                     |
-|                                   |                                   |
-| [#event-slack-channel]        | 911 \| ASU Police: [Campus Police Number]   |
-+-----------------------------------+-----------------------------------+
+| **Event Lead** [Event Lead Name] [event-lead@university.edu] | **PI Workshop Lead** [PI Workshop Lead Name] [pi-lead@university.edu] |
+| --- | --- |
+| **Slack** [#event-slack-channel] | **Emergency** 911 \ |
+
 
   -----------------------------------------------------------------------
   **See you February 2nd. Come ready to build something that matters.**

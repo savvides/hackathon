@@ -2,16 +2,9 @@
 
 February 2-4, 2026 \| 1951@Skysong
 
-+-----------------------------------------------------------------------+
-| **Office Hours:** Day 1 & Day 2, 1:00--4:00 PM                        |
-|                                                                       |
-| **Format:** Station-based. Teams come to you. \~15-20 min per         |
-| session.                                                              |
-|                                                                       |
-| **Participants:** 116 students, 25 teams of 4-5                       |
-|                                                                       |
-| **Your Station:** See assignment spreadsheet                          |
-+-----------------------------------------------------------------------+
+| **Office Hours:** Day 1 & Day 2, 1:00--4:00 PM **Format:** Station-based. Teams come to you. \~15-20 min per session. **Participants:** 116 students, 25 teams of 4-5 **Your Station:** See assignment spreadsheet |
+| --- |
+
 
 Context
 
@@ -27,23 +20,12 @@ PM).
 
 Stations
 
-+--------------------+-------------------------------------------------+
-| **Station 1**      | Instructional design, curriculum, K-12          |
-|                    | partnerships, faculty workload, institutional   |
-| Education &        | processes                                       |
-| Operations         |                                                 |
-+--------------------+-------------------------------------------------+
-| **Station 2**      | Mental health, counseling, student success,     |
-|                    | retention, peer support, career development     |
-| Student Wellness   |                                                 |
-+--------------------+-------------------------------------------------+
-| **Station 3**      | Healthcare workforce, health equity, AI/ML,     |
-|                    | health tech, data systems, clinical workflows   |
-| Health & AI/Tech   |                                                 |
-+--------------------+-------------------------------------------------+
-| **Roaming**        | Floor circulation. Check on teams that haven\'t |
-|                    | sought help. Cross-station support.             |
-+--------------------+-------------------------------------------------+
+| **Station 1** Education & Operations | Instructional design, curriculum, K-12 partnerships, faculty workload, institutional processes |
+| --- | --- |
+| **Station 2** Student Wellness | Mental health, counseling, student success, retention, peer support, career development |
+| **Station 3** Health & AI/Tech | Healthcare workforce, health equity, AI/ML, health tech, data systems, clinical workflows |
+| **Roaming** | Floor circulation. Check on teams that haven\'t sought help. Cross-station support. |
+
 
 Principled Innovation (Required)
 
