@@ -83,7 +83,7 @@ Reduces subjectivity.
 **Score Interpretation**
 
   ----------- ------------------------------------------------------------
-  **27-31**   Exceptional project demonstrating strong PI integration,
+  **20-26**   Exceptional project demonstrating strong PI integration,
               technical execution, and impact potential
 
   **15-19**   Strong project with minor gaps in PI application or

@@ -21,11 +21,6 @@ hackathon-toolkit/
 ├── problem-bank/               # 50 curated challenge problems
 │   └── problem-bank.md         # Education × Health problems with ethical considerations
 │
-├── post-mortem/                # Reference case study from the 2026 ASU event
-│   ├── results.md              # Final rankings and scoring methodology
-│   ├── student-feedback-analysis.md   # Survey analysis, team dynamics findings, recommendations
-│   └── mentor-feedback-report.md      # Mentor utilization, structural assessment
-│
 └── resources/                  # Post-hackathon pathways
     └── entrepreneurship-resources.md  # Example post-hackathon pathways (ASU/Arizona — adapt to your region)
 ```
@@ -38,7 +33,7 @@ hackathon-toolkit/
 
 **Building a problem bank:** `problem-bank/problem-bank.md` contains 50 example problems (Arizona education/healthcare), each with: problem statement, affected stakeholders, current inadequate solutions, regional context, global context, ethical considerations, and prototype scope. Use the structure as a template — replace the problems with challenges relevant to your domain and region.
 
-**Learning from our mistakes:** The `post-mortem/` folder contains unfiltered analysis of what worked and what didn't. Key findings: team collaboration quality was the single largest driver of participant satisfaction (3.1-point NPS gap between effective and struggling teams), and mentor utilization had a discovery/routing problem, not a quality problem.
+**Learning from our mistakes:** After running your event, conduct a post-mortem covering student feedback, mentor feedback, and final results. Key lessons from our experience: team collaboration quality was the single largest driver of participant satisfaction, and mentor utilization challenges stemmed from discovery and routing, not mentor quality.
 
 ---
 
@@ -46,15 +41,15 @@ hackathon-toolkit/
 
 These are the structural choices that shaped this hackathon. They're documented here so you can make informed decisions about what to keep and what to change.
 
-**Pre-assigned teams of 4.** Teams were formed before the event using stratified random assignment with hard constraints (each team has at least 1 technical member, mixed experience levels). This is deliberately uncomfortable — navigating team dynamics with strangers is a core learning objective. Post-event data showed the pre-assignment model works when the matching algorithm has sufficient signal. The matching algorithm's inputs were too coarse (binary technical/non-technical). Future iterations should capture more granular skill profiles.
+**Pre-assigned teams of 4.** Teams were formed before the event using stratified random assignment with hard constraints (each team has at least 1 technical member, mixed experience levels). This is deliberately uncomfortable — navigating team dynamics with strangers is a core learning objective. Lesson learned: the matching algorithm's inputs were too coarse (binary technical/non-technical). Future iterations should capture more granular skill profiles.
 
-**Mandatory ethical framework.** Principled Innovation (PI) was not optional. It was a judging criterion worth 5 of 26 points. A 2-hour workshop on Day 1 grounded all teams in the framework before building began. 50% of students reported PI significantly shaped their approach; 19% treated it as a checkbox. The workshop quality directly predicted framework adoption — when the workshop landed, ethical reasoning followed.
+**Mandatory ethical framework.** Principled Innovation (PI) was not optional. It was a judging criterion worth 5 of 26 points. A 2-hour workshop on Day 1 grounded all teams in the framework before building began. Lesson learned: workshop quality directly predicted framework adoption — when the workshop landed, ethical reasoning followed.
 
 **Binary scoring rubric.** Each criterion scores 1 (meets) or 0 (doesn't). This reduces inter-judge variance compared to Likert scales. 26 possible points across 8 dimensions. A minimum threshold of 10 points was required for finalist eligibility.
 
-**Station-based mentoring.** Mentors were organized into themed stations (Education & Operations, Student Wellness, Health & AI/Tech) plus roaming mentors. Station-expertise matching scored 4.80/5. The physical layout (booth seating vs. table seating) created friction — use tables with visible station labels.
+**Station-based mentoring.** Mentors were organized into themed stations (Education & Operations, Student Wellness, Health & AI/Tech) plus roaming mentors. Lesson learned: the physical layout (booth seating vs. table seating) created friction — use tables with visible station labels.
 
-**Curated problem bank (not open-ended).** Teams selected from a pre-curated bank of 50 problems rather than defining their own. This ensures all projects are grounded in real, researched challenges with identified stakeholders. The problem bank was the highest-rated structural element (4.56/5).
+**Curated problem bank (not open-ended).** Teams selected from a pre-curated bank of 50 problems rather than defining their own. This ensures all projects are grounded in real, researched challenges with identified stakeholders.
 
 ---
 
