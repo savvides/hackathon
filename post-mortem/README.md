@@ -1,5 +1,7 @@
 # Post-Mortem
 
+This folder documents the post-event analysis from the 2026 reference event (ASU, 28 participants, 9 teams). The data is specific to that run; the analysis structure and methodology are reusable for your own post-event review.
+
 Unfiltered analysis of what happened, what worked, and what didn't. Published so other organizers can learn from our first run.
 
 ## Files

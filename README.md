@@ -1,12 +1,10 @@
 # Hackathon Toolkit: Education & Health Innovation
 
-**An open-source blueprint for running ethics-integrated hackathons at scale.**
+**A complete, field-tested toolkit for running ethics-integrated hackathons at university scale.**
 
-This repository contains the complete design documentation, problem bank, evaluation system, and post-event analysis from a 3-day university hackathon focused on education and healthcare challenges. Everything has been published so other organizers can fork, adapt, and run their own version.
+This repository contains everything you need to organize a 3-day hackathon with mandatory ethical reasoning built into the judging criteria: event blueprint, participant guide, mentor brief, scoring rubric, a 50-problem bank, and post-event analysis methodology.
 
-The hackathon ran February 2–4, 2026 at Arizona State University with 28 students across 9 teams, a $5,000 prize pool, 25 mentors, and a mandatory ethical reasoning framework (Principled Innovation) integrated into judging criteria.
-
-All personally identifiable information has been removed. Arizona-specific content is preserved as a worked example — adapt it to your region.
+The toolkit was developed and tested at Arizona State University in 2026. Arizona-specific content (problem bank, regional data, entrepreneurship resources) is preserved as a worked example — fork the repo and adapt it to your institution and region.
 
 ---
 
@@ -23,13 +21,13 @@ hackathon-toolkit/
 ├── problem-bank/               # 50 curated challenge problems
 │   └── problem-bank.md         # Education × Health problems with ethical considerations
 │
-├── post-mortem/                # What happened and what we learned
+├── post-mortem/                # Reference case study from the 2026 ASU event
 │   ├── results.md              # Final rankings and scoring methodology
-│   ├── student-feedback-analysis.md   # NPS +38, team dynamics findings, recommendations
+│   ├── student-feedback-analysis.md   # Survey analysis, team dynamics findings, recommendations
 │   └── mentor-feedback-report.md      # Mentor utilization, structural assessment
 │
 └── resources/                  # Post-hackathon pathways
-    └── entrepreneurship-resources.md  # ASU/Arizona venture support ecosystem
+    └── entrepreneurship-resources.md  # Example post-hackathon pathways (ASU/Arizona — adapt to your region)
 ```
 
 ---
@@ -38,7 +36,7 @@ hackathon-toolkit/
 
 **Running your own hackathon:** Start with `templates/design-document.md`. It covers event structure, registration, team formation algorithm, rules, judging process, and support systems. The `evaluation-criteria.md` gives you a ready-to-use rubric. The `student-guide.md` is what you hand to participants. The `mentor-briefing.md` is what you hand to mentors.
 
-**Building a problem bank:** `problem-bank/problem-bank.md` contains 50 problems, each with: problem statement, affected stakeholders, current inadequate solutions, regional context, global context, ethical considerations, and prototype scope. Use the structure as a template — replace the problems with challenges relevant to your domain and region.
+**Building a problem bank:** `problem-bank/problem-bank.md` contains 50 example problems (Arizona education/healthcare), each with: problem statement, affected stakeholders, current inadequate solutions, regional context, global context, ethical considerations, and prototype scope. Use the structure as a template — replace the problems with challenges relevant to your domain and region.
 
 **Learning from our mistakes:** The `post-mortem/` folder contains unfiltered analysis of what worked and what didn't. Key findings: team collaboration quality was the single largest driver of participant satisfaction (3.1-point NPS gap between effective and struggling teams), and mentor utilization had a discovery/routing problem, not a quality problem.
 
@@ -75,21 +73,6 @@ To adapt for your institution and region:
 4. **Mentor structure:** The station-based model with expertise matching works. Adapt station themes to match your problem domains. Ensure 2–3 roaming mentors on Day 1 (we had 1, which was critically insufficient).
 
 5. **Resources:** Replace with your institution's entrepreneurship ecosystem. The structure (accelerators, maker spaces, funding competitions, state programs) is universal.
-
----
-
-## Post-Event Metrics
-
-| Metric | Value | Notes |
-|--------|-------|-------|
-| Participants | 28 of 100 planned | 28% of design capacity — registration funnel needs investigation |
-| Teams | 9 | Pre-assigned, 3–4 members each |
-| Mentors | 25 of 28 recruited | 89.3% show rate |
-| Prize pool | $5,000 | $2,500 / $1,500 / $1,000 |
-| Student NPS | +38 | Healthy for first-run with structural friction |
-| Problem bank rating | 4.56/5 | Highest-rated element |
-| Mentor expertise match | 4.80/5 | Station assignment validated |
-| Would mentor again | 100% | Strongest retention signal |
 
 ---
 

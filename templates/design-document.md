@@ -1,6 +1,6 @@
-**ScaleU + Principled Innovation Academy Hackathon 2026**
+**[Event Name] Hackathon [Year]**
 
-*Education and Health Sector Challenges*
+*[Domain Focus]*
 
 **[PI Workshop Lead Name]**
 
@@ -10,16 +10,15 @@ Email: [pi-lead@university.edu]
 
 **[Event Lead Name]**
 
-Director, Venture Acceleration, ASU RealmSpark
+[Event Lead Title], [Organization]
 
 Email: [event-lead@university.edu]
 
-Document Version: 5.0 \| Last Updated: January 30, 2026
+Document Version: [X.X] \| Last Updated: [Date]
 
 **Introduction**
 
-This document outlines the ScaleU + Principled Innovation Academy
-Hackathon 2026, a three-day, in-person experience where students
+This document outlines the [Event Name] Hackathon [Year], a three-day, in-person experience where students
 collaborate in interdisciplinary teams to design innovative solutions to
 real challenges in higher education and healthcare, grounded in ethical
 reasoning and the Principled Innovation framework.
@@ -29,22 +28,20 @@ over pure competition. Participants will integrate ethical
 considerations into every stage of development, working with assigned
 teammates to navigate complex problem-solving under time constraints.
 
-The convergence of Arizona\'s healthcare workforce crisis, ASU Health\'s
-launch, and rapidly evolving educational technology creates an
-unprecedented opportunity for student innovation. This hackathon
-addresses challenges where 2.5-day prototypes can demonstrate meaningful
-impact across education and health sectors.
+[Insert 1-2 sentences grounding the hackathon in your institution's
+strategic context and regional challenges. What convergence of factors
+creates the opportunity for this hackathon?]
 
 **Key Distinguishing Features**
 
--   **Capped participation:** 100 ASU students, first-come-first-served
+-   **Capped participation:** [N] students from [Institution], first-come-first-served
     registration
 
 -   **Pre-assigned teams:** Teams of 4 formed before the event based on
     skill complementarity
 
--   **Curated problem bank:** 47 problems across education, health, and
-    intersection domains
+-   **Curated problem bank:** [N] problems across [domain] intersection
+    domains
 
 -   **Showcase judging format:** All teams present at table showcases
     with peer voting and judge selection of finalists
@@ -55,41 +52,38 @@ impact across education and health sectors.
 -   **Structured PI workshop:** 2-hour workshop on Day 1 led by PI
     Academy Director grounds all teams in ethical reasoning
 
--   **ASU Health strategic alignment:** Problems aligned with workforce
-    development, health equity, AI integration, and data-driven
-    decision-making
+-   **[Institution] strategic alignment:** Problems aligned with
+    [institutional priorities]
 
 **Event Overview**
 
 **Cash Prizes**
 
--   **1st place:** \$2,500
+-   **1st place:** \$[Amount]
 
--   **2nd place:** \$1,500
+-   **2nd place:** \$[Amount]
 
--   **3rd place:** \$1,000
+-   **3rd place:** \$[Amount]
 
-**Total prize pool: \$5,000**
+**Total prize pool: \$[Total]**
 
 **Location**
 
-**1951@Skysong**
+**[Venue Name]**
 
-1475 N Scottsdale Rd
-
-Scottsdale, AZ 85257
+[Address]
 
 **Event Dates**
 
--   **Day 1:** Sunday, February 2, 2026 (8:30 AM - 5:00 PM)
+-   **Day 1:** [Day], [Date] (8:30 AM - 5:00 PM)
 
--   **Day 2:** Monday, February 3, 2026 (8:00 AM - 5:00 PM)
+-   **Day 2:** [Day], [Date] (8:00 AM - 5:00 PM)
 
--   **Day 3:** Tuesday, February 4, 2026 (8:00 AM - 3:00 PM)
+-   **Day 3:** [Day], [Date] (8:00 AM - 3:00 PM)
 
 **Schedule**
 
-**Day 1: February 2, 2026**
+**Day 1: [Date]**
 
   --------------- ---------------------- ---------------------------------
   **Time**        **Activity**           **Details**
@@ -112,7 +106,7 @@ Scottsdale, AZ 85257
                                          problem
 
   12:00 PM        Development Begins +   Teams start work; lunch provided
-                  Working Lunch          (Chipotle); Mentor Office Hours
+                  Working Lunch          [Catering]; Mentor Office Hours
                                          begin
 
   12:00 PM - 4:00 Mentor Office Hours    Mentors available for concept
@@ -125,7 +119,7 @@ Scottsdale, AZ 85257
   5:00 PM         End of Day 1           Venue closes
   --------------- ---------------------- ---------------------------------
 
-**Day 2: February 3, 2026**
+**Day 2: [Date]**
 
   --------------- ---------------------- ---------------------------------
   **Time**        **Activity**           **Details**
@@ -151,7 +145,7 @@ Scottsdale, AZ 85257
                   End + Final            pitch decks
                   Development Push       
 
-  5:00 PM         Submission Deadline    Submit via Airtable form: (1)
+  5:00 PM         Submission Deadline    Submit via [submission platform]: (1)
                                          Pitch deck, (2) Link to working
                                          demo, (3) GitHub repo; cease
                                          development work
@@ -159,7 +153,7 @@ Scottsdale, AZ 85257
   5:00 PM         End of Day 2           Venue closes, dinner on your own
   --------------- ---------------------- ---------------------------------
 
-**Day 3: February 4, 2026**
+**Day 3: [Date]**
 
   --------------- ---------------------- ---------------------------------
   **Time**        **Activity**           **Details**
@@ -194,29 +188,28 @@ Scottsdale, AZ 85257
 
 **Eligibility**
 
-Open to all current ASU students (undergraduate and graduate) enrolled
-at any ASU campus. No prior hackathon experience required.
+Open to all current [Institution] students (undergraduate and graduate).
+No prior hackathon experience required.
 
-**CRITICAL REQUIREMENT FOR PRIZE ELIGIBILITY:** To receive prize
-payments, winners must be enrolled in at least one credit at ASU during
-Spring 2026 semester. Prize payments are processed through ASU student
-accounts and require active enrollment status. Non-enrolled participants
-may compete but are ineligible for prizes.
+**CRITICAL REQUIREMENT FOR PRIZE ELIGIBILITY:** [Insert any
+institutional requirements for prize eligibility, e.g., enrollment
+status, affiliation. Prize payment method and constraints vary by
+institution.]
 
 **Registration Timeline**
 
--   **Registration opens:** January 15, 2026
+-   **Registration opens:** [Date]
 
--   **Registration closes:** January 29, 2026, 11:59 PM Arizona Time
+-   **Registration closes:** [Date], 11:59 PM [Time Zone]
 
--   **Team assignments sent:** January 30, 2026
+-   **Team assignments sent:** [Date]
 
--   **Event begins:** February 2, 2026, 8:30 AM
+-   **Event begins:** [Date], 8:30 AM
 
 **Selection Process**
 
-**First-come, first-served:** The first 100 completed registrations will
-be accepted. Once 100 participants are confirmed, the registration
+**First-come, first-served:** The first [N] completed registrations will
+be accepted. Once [N] participants are confirmed, the registration
 portal will close automatically.
 
 **Team Formation**
@@ -255,14 +248,14 @@ hackathon.
     cannot compete.
 
 3.  **Problem Selection:** Teams must select from the curated problem
-    bank of 47 challenges.
+    bank of [N] challenges.
 
 4.  **Development Work:** Teams may discuss ideas before Day 1 but
     cannot write code or create artifacts. At least 60% of the
     project\'s codebase must be original, created during the hackathon.
 
 5.  **Development Deadline:** All development must cease at 5:00 PM on
-    Day 2. All deliverables must be submitted via Airtable form.
+    Day 2. All deliverables must be submitted via [submission platform].
 
 6.  **Submission Requirements:** Pitch deck (PDF or PowerPoint), link to
     working demo, and GitHub repository link. Incomplete submissions
@@ -289,8 +282,8 @@ hackathon.
 
 **Timing:** Day 3, 10:00 AM - 12:30 PM (2.5 hours)
 
-5 judges will circulate among all 25 tables during the showcase period.
-Each judge will visit all 25 teams (approximately 5-6 minutes per team),
+5 judges will circulate among all tables during the showcase period.
+Each judge will visit all teams (approximately 5-6 minutes per team),
 ask clarifying questions, and evaluate teams using standardized rubric.
 
 **Finalist Selection**
@@ -422,7 +415,7 @@ receive 1-on-1 conversations with organizers.
 
 **[Event Lead Name]**
 
-Director, Venture Acceleration, ASU RealmSpark
+[Event Lead Title], [Organization]
 
 Email: [event-lead@university.edu]
 
@@ -446,30 +439,12 @@ Email: [pi-lead@university.edu]
 
 **Document Version Information**
 
-**Document Version:** 5.0
+**Document Version:** [X.X]
 
-**Last Updated:** January 30, 2026
+**Last Updated:** [Date]
 
-**Effective for:** ScaleU + Principled Innovation Academy Hackathon
-2026, February 2-4, 2026
+**Effective for:** [Event Name] [Year]
 
-**Scope:** Education and Health Sector Challenges
-
-**Key Changes from Version 4**
-
-**Schedule Changes:**
-
--   Day 1: Check-in moved to 8:30 AM (was 8:00 AM)
-
--   Day 1: Welcome moved to 9:00 AM (was 8:30 AM)
-
--   Day 1: PI Workshop moved to 9:30 AM - 11:30 AM (was 9:00 AM - 11:00
-    AM)
-
--   Day 1: Mentor Office Hours moved to 12:00 PM - 4:00 PM (was 1:00
-    PM - 4:00 PM)
-
--   Day 2: Mentor Office Hours moved to 12:00 PM - 4:00 PM (was 1:00
-    PM - 4:00 PM)
+**Scope:** [Domain Focus]
 
 **END OF DOCUMENT**
