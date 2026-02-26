@@ -49,7 +49,7 @@ These are the structural choices that shaped this hackathon. They're documented 
 
 **Station-based mentoring.** Mentors were organized into themed stations (Education & Operations, Student Wellness, Health & AI/Tech) plus roaming mentors. Lesson learned: the physical layout (booth seating vs. table seating) created friction — use tables with visible station labels.
 
-**Curated problem bank (not open-ended).** Teams selected from a pre-curated bank of 50 problems rather than defining their own. This ensures all projects are grounded in real, researched challenges with identified stakeholders.
+**Curated problem bank (not open-ended).** Teams selected from a pre-curated bank of 50 problems rather than defining their own. This ensures all projects are grounded in real, researched challenges with identified stakeholders. Lesson learned: The curated problem bank was the highest-rated structural element, effectively grounding projects in real-world challenges.
 
 ---
 
