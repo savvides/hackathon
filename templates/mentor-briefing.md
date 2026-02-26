@@ -1,16 +1,15 @@
 **MENTOR BRIEF**
 
-February 2-4, 2026 \| 1951@Skysong
+[Date Range] \| [Venue]
 
-| **Office Hours:** Day 1 & Day 2, 1:00--4:00 PM **Format:** Station-based. Teams come to you. \~15-20 min per session. **Participants:** 116 students, 25 teams of 4-5 **Your Station:** See assignment spreadsheet |
+| **Office Hours:** Day 1 & Day 2, [Time Range] **Format:** Station-based. Teams come to you. \~15-20 min per session. **Participants:** [N] students, [N] teams of [size] **Your Station:** [See station assignment from organizers] |
 | --- |
 
 
 Context
 
 Teams are pre-assigned (strangers working together). They selected
-problems from a curated bank of 47 challenges across education and
-healthcare. Principled Innovation integration is a mandatory judging
+problems from a curated bank of [N] challenges across [domains]. Principled Innovation integration is a mandatory judging
 criterion---teams must demonstrate ethical reasoning, not just technical
 execution.
 
@@ -42,23 +41,23 @@ Iterating by Action, Communicating Throughout
 validity, health equity. Education---FERPA, access equity, surveillance
 vs. support, accessibility.
 
-Arizona Healthcare Context
+[Regional/Domain] Context
 
-Many problems reference Arizona-specific challenges:
+[Insert 4-5 bullet points summarizing the regional challenges relevant
+to your problem bank so mentors can contextualize student projects.
+Example from the 2026 ASU event:]
 
-• Nursing shortage: 28,100 projected shortfall by 2025 (worst in nation)
+• [Statistic]: [Data point relevant to your problem domain]
 
-• 22 federally recognized tribes; Navajo Nation spans 27,000 sq mi
+• [Statistic]: [Data point relevant to your problem domain]
 
-• Heat vulnerability: 645 heat-related deaths in Maricopa County (2023)
+• [Statistic]: [Data point relevant to your problem domain]
 
-• Rural access: 29 areas with physician ratios \>5,000:1 or no physician
-
-• Border health: 187.8M annual northbound crossings at AZ-Mexico border
+• [Statistic]: [Data point relevant to your problem domain]
 
 Logistics
 
-**Venue:** 1951@Skysong, 1475 N Scottsdale Rd, Scottsdale, AZ 85257
+**Venue:** [Venue Name], [Address]
 
 **Parking:** Provided (details in logistics email)
 

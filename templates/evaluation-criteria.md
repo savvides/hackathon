@@ -1,6 +1,6 @@
 **Project Evaluation Criteria**
 
-*ScaleU + Principled Innovation Academy Hackathon 2026*
+*[Event Name] [Year]*
 
 **Scoring Method:** Binary scoring (1 = meets criterion, 0 = does not).
 Reduces subjectivity.
@@ -83,7 +83,7 @@ Reduces subjectivity.
 **Score Interpretation**
 
   ----------- ------------------------------------------------------------
-  **20-25**   Exceptional project demonstrating strong PI integration,
+  **20-26**   Exceptional project demonstrating strong PI integration,
               technical execution, and impact potential
 
   **15-19**   Strong project with minor gaps in PI application or
@@ -102,4 +102,4 @@ for finalist selection regardless of peer vote results.
 **Finalist Selection:** Judge scores (80%) + Peer votes (20%) =
 Composite score. Top 5 teams advance to final presentations.
 
-February 2-4, 2026 \| 1951@Skysong \| [event-website]
+[Date Range] \| [Venue] \| [event-website]
