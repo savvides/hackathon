@@ -1,5 +1,7 @@
 # Hackathon Toolkit: Education & Health Innovation
 
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](CHANGELOG.md) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+
 **A complete, field-tested toolkit for running ethics-integrated hackathons at university scale.**
 
 This repository contains everything you need to organize a 3-day hackathon with mandatory ethical reasoning built into the judging criteria: event blueprint, participant guide, mentor brief, scoring rubric, a 50-problem bank, and post-event analysis methodology.
@@ -90,4 +92,6 @@ https://github.com/[your-username]/hackathon-toolkit
 
 ## Contributing
 
-Found something that could be better? Open an issue or PR. This toolkit improves when more organizers share what they learned.
+Found something that could be better? See [CONTRIBUTING.md](CONTRIBUTING.md) for how to propose new problems, report bugs, improve templates, or share your adaptation experience.
+
+This toolkit improves when more organizers share what they learned.
