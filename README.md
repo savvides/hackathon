@@ -1,75 +1,67 @@
 # Hackathon Toolkit: Education & Health Innovation
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue)](CHANGELOG.md) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+**A field-tested toolkit for running ethics-focused hackathons at universities.**
 
-**A complete, field-tested toolkit for running ethics-integrated hackathons at university scale.**
+This repo contains the basics for a 3-day hackathon where ethical reasoning isn't an afterthought—it's a requirement. It includes blueprints, participant guides, scoring rubrics, and a 50-problem bank. 
 
-This repository contains everything you need to organize a 3-day hackathon with mandatory ethical reasoning built into the judging criteria: event blueprint, participant guide, mentor brief, scoring rubric, a 50-problem bank, and post-event analysis methodology.
-
-The toolkit was developed and tested at Arizona State University in 2026. Arizona-specific content (problem bank, regional data, entrepreneurship resources) is preserved as a worked example — fork the repo and adapt it to your institution and region.
+We built and tested this at Arizona State University in 2026. The Arizona-specific stuff (local data, regional problems) is left in as a working example. If you're elsewhere, just fork it and swap in your own local context.
 
 ---
 
-## What's Inside
+## The Components
 
 ```
 hackathon-toolkit/
-├── templates/                  # The 4 documents you need to run a hackathon
-│   ├── design-document.md      # Full event blueprint: schedule, rules, judging, team formation
-│   ├── student-guide.md        # Participant-facing guide with schedule, rubric, mentor info
-│   ├── evaluation-criteria.md  # 26-point binary scoring rubric
-│   └── mentor-briefing.md      # One-page mentor brief: context, stations, logistics
+├── templates/                  # Everything needed to run the event
+│   ├── design-document.md      # The blueprint: rules, judging, and team formation
+│   ├── student-guide.md        # What the participants actually read
+│   ├── evaluation-criteria.md  # A simple 26-point rubric
+│   └── mentor-briefing.md      # A one-pager for mentors
 │
-├── problem-bank/               # 50 curated challenge problems
-│   └── problem-bank.md         # Education × Health problems with ethical considerations
+├── problem-bank/               # 50 real-world challenges
+│   └── problem-bank.md         # Education and Health problems with ethics built-in
 │
-└── resources/                  # Post-hackathon pathways
-    └── entrepreneurship-resources.md  # Example post-hackathon pathways (ASU/Arizona — adapt to your region)
+└── resources/                  # What happens after Sunday?
+    └── entrepreneurship-resources.md  # Post-hackathon pathways (ASU example)
 ```
 
 ---
 
-## How to Use This
+## Getting Started
 
-**Running your own hackathon:** Start with `templates/design-document.md`. It covers event structure, registration, team formation algorithm, rules, judging process, and support systems. The `evaluation-criteria.md` gives you a ready-to-use rubric. The `student-guide.md` is what you hand to participants. The `mentor-briefing.md` is what you hand to mentors.
+**To run an event:** Go straight to `templates/design-document.md`. It covers the logistics of team formation and judging. Use `evaluation-criteria.md` for your rubric and hand out `student-guide.md` on Friday night.
 
-**Building a problem bank:** `problem-bank/problem-bank.md` contains 50 example problems (Arizona education/healthcare), each with: problem statement, affected stakeholders, current inadequate solutions, regional context, global context, ethical considerations, and prototype scope. Use the structure as a template — replace the problems with challenges relevant to your domain and region.
+**To build your problems:** Use `problem-bank/problem-bank.md` as a reference. Each problem includes stakeholders, current failures, and ethical considerations. Swap our Arizona examples for the issues your own community is actually facing.
 
-**Learning from our mistakes:** After running your event, conduct a post-mortem covering student feedback, mentor feedback, and final results. Key lessons from our experience: team collaboration quality was the single largest driver of participant satisfaction, and mentor utilization challenges stemmed from discovery and routing, not mentor quality.
-
----
-
-## Key Design Decisions (and Why)
-
-These are the structural choices that shaped this hackathon. They're documented here so you can make informed decisions about what to keep and what to change.
-
-**Pre-assigned teams of 4.** Teams were formed before the event using stratified random assignment with hard constraints (each team has at least 1 technical member, mixed experience levels). This is deliberately uncomfortable — navigating team dynamics with strangers is a core learning objective. Lesson learned: the matching algorithm's inputs were too coarse (binary technical/non-technical). Future iterations should capture more granular skill profiles.
-
-**Mandatory ethical framework.** Principled Innovation (PI) was not optional. It was a judging criterion worth 5 of 26 points. A 2-hour workshop on Day 1 grounded all teams in the framework before building began. Lesson learned: workshop quality directly predicted framework adoption — when the workshop landed, ethical reasoning followed.
-
-**Binary scoring rubric.** Each criterion scores 1 (meets) or 0 (doesn't). This reduces inter-judge variance compared to Likert scales. 26 possible points across 8 dimensions. A minimum threshold of 10 points was required for finalist eligibility.
-
-**Station-based mentoring.** Mentors were organized into themed stations (Education & Operations, Student Wellness, Health & AI/Tech) plus roaming mentors. Lesson learned: the physical layout (booth seating vs. table seating) created friction — use tables with visible station labels.
-
-**Curated problem bank (not open-ended).** Teams selected from a pre-curated bank of 50 problems rather than defining their own. This ensures all projects are grounded in real, researched challenges with identified stakeholders. Lesson learned: The curated problem bank was the highest-rated structural element, effectively grounding projects in real-world challenges.
+**To avoid our mistakes:** We learned that team collaboration matters more than technical skill for participant happiness. Also, don't just "have mentors"—make it easy for students to find them. We struggled with routing; students often didn't know who to talk to.
 
 ---
 
-## Adapting to Your Context
+## Why we built it this way
 
-This toolkit was built for Arizona State University, with problems focused on Arizona's healthcare workforce crisis, tribal health, border health, and heat vulnerability. The regional specificity is intentional — it grounds problems in real data and real stakeholders rather than abstract challenges.
+We made a few opinionated choices during the ASU pilot. Here’s why.
 
-To adapt for your institution and region:
+**Pre-assigned teams.** We used random assignment with a few technical constraints. It’s intentionally uncomfortable. Forcing strangers to work together is a feature, not a bug. *Note: Our algorithm was a bit too simple; next time we'd capture more specific skills.*
 
-1. **Problem bank:** Replace Arizona-specific data points with your region's equivalent challenges. Keep the structure (problem statement → stakeholders → current solutions → regional context → global context → ethical considerations → prototype scope).
+**Ethics aren't optional.** We used the "Principled Innovation" framework. It accounted for nearly 20% of the total score. If teams didn't attend the Day 1 ethics workshop, it showed in their final pitch.
 
-2. **Design document:** Update participant eligibility, venue, dates, prize structure, and organizational contacts. The schedule, rules, and judging process are transferable.
+**Binary scoring (Yes/No).** Judges gave a 1 or a 0. No "3 out of 5" ambiguity. It keeps the judging consistent and prevents "nice" judges from skewing the results. You needed 10 points just to be a finalist.
 
-3. **Ethical framework:** Principled Innovation is ASU's framework. Substitute your institution's equivalent (responsible innovation, design ethics, value-sensitive design, etc.) — or adopt PI directly. The integration pattern matters more than the specific framework.
+**Themed Mentor Stations.** Instead of having mentors wander aimlessly, we put them at themed tables. It helps, but only if the table signs are huge.
 
-4. **Mentor structure:** The station-based model with expertise matching works. Adapt station themes to match your problem domains. Ensure 2–3 roaming mentors on Day 1 (we had 1, which was critically insufficient).
+**Curated problems only.** Students couldn't bring their own ideas. They had to pick from our list of 50. This kept everyone grounded in real, researched problems rather than building "cool tech" that nobody actually needs.
 
-5. **Resources:** Replace with your institution's entrepreneurship ecosystem. The structure (accelerators, maker spaces, funding competitions, state programs) is universal.
+---
+
+## Making it yours
+
+The current problems focus on Arizona—heat vulnerability, tribal health, and border issues. That specificity is what made the pilot work. 
+
+To adapt it:
+1. **The Problems:** Replace our data with yours. Keep the structure, but change the geography.
+2. **The Ethics:** If your school uses a different framework (like "Responsible Innovation"), swap it in. How you integrate it matters more than the name.
+3. **The Mentors:** Adjust the themes to match your local experts.
+4. **The Post-Game:** Update the resource list with your local accelerators and maker spaces.
 
 ---
 
@@ -81,12 +73,8 @@ This work is released under the [MIT License](LICENSE). Use it, adapt it, improv
 
 ## Citation
 
-If you use this toolkit, a link back is appreciated but not required:
-
-```
-ScaleU + PI Academy Hackathon Toolkit (2026)
-https://github.com/[your-username]/hackathon-toolkit
-```
+If this helps you, let us know:
+`ScaleU + PI Academy Hackathon Toolkit (2026)`
 
 ---
 
