@@ -12,26 +12,23 @@ We built and tested this at Arizona State University in 2026. The Arizona-specif
 
 ```
 hackathon-toolkit/
-├── templates/                  # Everything needed to run the event
-│   ├── design-document.md      # The blueprint: rules, judging, and team formation
-│   ├── student-guide.md        # What the participants actually read
-│   ├── evaluation-criteria.md  # A simple 26-point rubric
-│   └── mentor-briefing.md      # A one-pager for mentors
+├── core/                       # The Agnostic Toolkit (Reusable)
+│   ├── event-logic/            # Master blueprints and rules
+│   └── templates/              # Participant and mentor docs
 │
-├── problem-bank/               # 50 real-world challenges
-│   └── problem-bank.md         # Education and Health problems with ethics built-in
+├── instances/                  # Real-world Implementations
+│   └── asu-2026/               # ASU pilot data (Worked Example)
 │
-└── resources/                  # What happens after Sunday?
-    └── entrepreneurship-resources.md  # Post-hackathon pathways (ASU example)
+└── tools/                      # Automation & helper scripts
 ```
 
 ---
 
 ## Getting Started
 
-**To run an event:** Go straight to `templates/design-document.md`. It covers the logistics of team formation and judging. Use `evaluation-criteria.md` for your rubric and hand out `student-guide.md` on Friday night.
+**To run an event:** Go straight to `core/event-logic/design-document.md`. It covers the logistics of team formation and judging. Use `core/templates/evaluation-criteria.md` for your rubric and hand out `core/templates/student-guide.md` on Friday night.
 
-**To build your problems:** Use `problem-bank/problem-bank.md` as a reference. Each problem includes stakeholders, current failures, and ethical considerations. Swap our Arizona examples for the issues your own community is actually facing.
+**To build your problems:** Use `instances/asu-2026/problem-bank.md` as a reference. Each problem includes stakeholders, current failures, and ethical considerations. Swap our Arizona examples for the issues your own community is actually facing.
 
 **To avoid our mistakes:** We learned that team collaboration matters more than technical skill for participant happiness. Also, don't just "have mentors"—make it easy for students to find them. We struggled with routing; students often didn't know who to talk to.
 
@@ -61,7 +58,7 @@ To adapt it:
 1. **The Problems:** Replace our data with yours. Keep the structure, but change the geography.
 2. **The Ethics:** If your school uses a different framework (like "Responsible Innovation"), swap it in. How you integrate it matters more than the name.
 3. **The Mentors:** Adjust the themes to match your local experts.
-4. **The Post-Game:** Update the resource list with your local accelerators and maker spaces.
+4. **The Post-Game:** Update `local-resources.md` with your local accelerators and maker spaces. You can find our example in `instances/asu-2026/`.
 
 ---
 
